@@ -24,9 +24,9 @@ Num projeto de jogo que estou desenvolvendo agora (privado), a estrutura foi pen
 
 ### Ferramentas
 
-**Agentes:** Claude Code, Codex, Gemini CLI, OpenCode, MCP, skills e subagentes
-**Tecnologias:** TypeScript, React, Electron, Ruby on Rails, Godot, Python, SQLite
-**Antes disso:** Ladder, Structured Text, Sysmac Studio, ISPSoft, elétrica predial e industrial
+- **Agentes:** Claude Code, Codex, Gemini CLI, OpenCode, MCP, skills e subagentes
+- **Tecnologias:** TypeScript, React, Electron, Ruby on Rails, Godot, Python, SQLite
+- **Antes disso:** Ladder, Structured Text, Sysmac Studio, ISPSoft, elétrica predial e industrial
 
 ### Contato
 
